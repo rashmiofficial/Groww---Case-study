@@ -1,0 +1,5 @@
+{
+  "name": "Groww Clone",
+  "description": "A high-fidelity clone of a stock trading application interface featuring real-time index updates, order management, and portfolio tracking.",
+  "requestFramePermissions": []
+}
